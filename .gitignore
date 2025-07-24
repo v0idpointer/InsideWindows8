@@ -1,0 +1,10 @@
+.vs/
+.vscode/
+
+*.sln
+**/*.vcxproj
+**/*.vcxproj.user
+**/*.vcxproj.filters
+
+**/Bin/
+**/Obj/
