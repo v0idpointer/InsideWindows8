@@ -9,7 +9,7 @@
 - [`EmulateSetWindowBand`](./EmulateSetWindowBand.md)
 - `GetImmersiveMode`
 - [`IsImmersiveWindow`](./IsImmersiveWindow.md)
-- `QueryWindowInterface`
-- `RegisterWindowInterface`
-- `UnregisterAllWindowInterfaces`
-- `UnregisterWindowInterface`
+- [`QueryWindowInterface`](./QueryWindowInterface.md)
+- [`RegisterWindowInterface`](./RegisterWindowInterface.md)
+- [`UnregisterAllWindowInterfaces`](./UnregisterAllWindowInterfaces.md)
+- [`UnregisterWindowInterface`](./UnregisterWindowInterface.md)
