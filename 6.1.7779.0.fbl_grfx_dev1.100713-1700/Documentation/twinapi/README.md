@@ -3,12 +3,12 @@
 ## Functions
 
 - [`CreateCompanionWindow`](./CreateCompanionWindow.md)
-- `CreateImmersiveWindow`
-- `EmulateCreateWindowInBand`
-- `EmulateGetWindowBand`
-- `EmulateSetWindowBand`
+- [`CreateImmersiveWindow`](./CreateImmersiveWindow.md)
+- [`EmulateCreateWindowInBand`](./EmulateCreateWindowInBand.md)
+- [`EmulateGetWindowBand`](./EmulateGetWindowBand.md)
+- [`EmulateSetWindowBand`](./EmulateSetWindowBand.md)
 - `GetImmersiveMode`
-- `IsImmersiveWindow`
+- [`IsImmersiveWindow`](./IsImmersiveWindow.md)
 - `QueryWindowInterface`
 - `RegisterWindowInterface`
 - `UnregisterAllWindowInterfaces`
